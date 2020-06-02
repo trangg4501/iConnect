@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1590167684 source:c:\users\hp\documents\pikachu\main.cpp
+	<string>
+	<vector>
+	<cstdlib>
+	<SDL_image.h>
+
+1591023602 source:c:\users\hp\documents\iconnect\main.cpp
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+
